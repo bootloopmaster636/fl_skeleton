@@ -1,0 +1,45 @@
+locale: id
+brandName: Skeleton App
+general:
+  warning: Perhatian!
+  err:
+    generic: Terjadi kesalahan
+    genericDesc: Silakan coba lagi di lain waktu.
+  form:
+    optional: opsional
+    required: wajib diisi
+    mustFilled: Mohon isi kolom ini
+  iAgree: Saya setuju dengan
+  tryAgain: Coba lagi
+  all: Semua
+  back: Kembali
+  cancel: Batal
+  cancelAlt: Lain kali
+  loading: Memuat data...
+  previous: Sebelumnya
+  next: Selanjutnya
+  yep: Iya
+  nope: Tidak
+  search: Cari
+  submit: Kirim
+  openSettings: Buka pengaturan
+  success: Sukses!
+  save: Simpan
+  tnc: Syarat dan Ketentuan
+  time:
+    morning: Selamat pagi
+    afternoon: Selamat siang
+    evening: Selamat sore
+    night: Selamat malam
+    today: Hari ini
+auth:
+  login:
+    title: Masuk
+home:
+  title: Beranda
+  greet: Selamat datang, $username!
+  calculator:
+    hint: Masukkan dua bilangan dan pilih operasi
+    operationHint: Pilih Operasi
+    result: Hasil hitungan adalah
+    count: Hitung
